@@ -4,3 +4,8 @@ a.blue:link{
 a.blue:visited{
     color: #78b3b3;
 }
+img.invisible{
+    display:none;
+    height:0px;
+    width:0px;
+}
